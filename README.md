@@ -14,6 +14,7 @@ Steps:
 * Random Forest 
 * k Nearest Neighbors 
 * XGBoost
+* GAM 
 
 3. Assess/evaluate trained model performance
 
